@@ -1,0 +1,7 @@
+name: Arcade
+version: 2.0
+author: Aspire
+main: com.stelch.games2.Main
+commands:
+    admin:
+        description: Control all aspects of the game.
